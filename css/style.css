@@ -344,7 +344,7 @@ html, body {
   .partners-track {
     display: flex;
     align-items: center;
-    animation: scrollPartners 50s linear infinite;
+    animation: scrollPartners 1000s linear infinite;
   }
   
   .partners-track img {
